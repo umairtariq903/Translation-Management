@@ -1,1 +1,1 @@
-# Translation-Management
+Please read the ReadMeDocument file for the clear picture of steps to setup and api information
